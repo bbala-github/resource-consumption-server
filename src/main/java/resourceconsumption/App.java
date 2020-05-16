@@ -1,4 +1,4 @@
-package hw;
+package resourceconsumption;
 
 import io.dropwizard.Application;
 import io.dropwizard.setup.Bootstrap;
@@ -11,7 +11,7 @@ public class App extends Application<Config> {
 
     @Override
     public String getName() {
-        return "hw";
+        return "resourceconsumption";
     }
 
     @Override

@@ -1,4 +1,4 @@
-package hw;
+package resourceconsumption;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import io.dropwizard.Configuration;

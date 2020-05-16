@@ -1,4 +1,4 @@
-package hw;
+package resourceconsumption;
 
 import com.codahale.metrics.health.HealthCheck;
 
